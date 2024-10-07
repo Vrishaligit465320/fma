@@ -192,8 +192,8 @@ Some picks below.
 
 <details><summary>~10 posts</summary>
 
-* [Music Genre Classification With TensorFlow](https://towardsdatascience.com/music-genre-classification-with-tensorflow-3de38f0d4dbb), Towards Data Science, 2020-08-11.
-* [Music Genre Classification: Transformers vs Recurrent Neural Networks](https://towardsdatascience.com/music-genre-classification-transformers-vs-recurrent-neural-networks-631751a71c58), Towards Data Science, 2020-06-14.
+* [Music Genre Classification With TensorFlow](https://towardsdatascience.com/music-genre-classification-with-tensorflow-3de38f0d4dbb), Towards Data Science, 2024-09-11.
+* [Music Genre Classification: Transformers vs Recurrent Neural Networks](https://towardsdatascience.com/music-genre-classification-transformers-vs-recurrent-neural-networks-631751a71c58), Towards Data Science, 2024-10-06.
 * [Using CNNs and RNNs for Music Genre Recognition](https://towardsdatascience.com/using-cnns-and-rnns-for-music-genre-recognition-2435fb2ed6af), Towards Data Science, 2018-12-13.
 * [Over 1.5 TB’s of Labeled Audio Datasets](https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad), Towards Data Science, 2018-11-13.
 * [Discovering Descriptive Music Genres Using K-Means Clustering](https://medium.com/latinxinai/discovering-descriptive-music-genres-using-k-means-clustering-d19bdea5e443), Medium, 2018-04-09.
@@ -241,7 +241,7 @@ Let this repository be a hub around the dataset!
 
 ## History
 
-**2017-05-09 pre-publication release**
+**2024-10-06 pre-publication release**
 * paper: [arXiv:1612.01840v2](https://arxiv.org/abs/1612.01840v2)
 * code: [git tag rc1](https://github.com/mdeff/fma/releases/tag/rc1)
 * `fma_metadata.zip` sha1: `f0df49ffe5f2a6008d7dc83c6915b31835dfe733`
